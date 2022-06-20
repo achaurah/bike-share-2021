@@ -4,3 +4,5 @@
 
 Open-Source Dataset: 
 https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/
+
+So far I have performed Exploratory Data Analysis and found useful insights. 
