@@ -5,13 +5,11 @@
 Open-Source Dataset: 
 https://open.toronto.ca/dataset/bike-share-toronto-ridership-data/
 
-So far I have performed Exploratory Data Analysis and found useful insights as shown in the MRP.ipynb attached.
+Aim: The bikes can be taken from any station and returned to any station in the bike share system. Results of the trip were extracted and useful insights were found that will help the Toronto Parking Authority to exercise good judgment and improve their service for dear users to commute locally without having to worry about the availability of bikes at any given time.
+
+Data Cleaning, EDA, Descriptive Analysis and Predictive Modeling has been implemneted in this project. 
 
 
-Update (4th August,2022): Execution of models and evaluating performance metrics of models done in the file - results.ipynb which has been added. 
-
-Status: In Progress
+Status: Completed
 
 
-
-Expected to finish the project by August 2022
